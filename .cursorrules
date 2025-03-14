@@ -1,0 +1,9 @@
+Description du projet
+Ce projet est une application minimaliste en Python qui intègre un minuteur avec les fonctionnalités suivantes :
+
+Permettre à l'utilisateur de définir la durée du minuteur
+Configurer un temps de pause après la fin du minuteur
+Offrir la possibilité de relancer le minuteur à volonté
+Inclure une fonction de verrouillage permettant à l'application de rester en premier plan (au-dessus de toutes les autres fenêtres ouvertes sur l'ordinateur)
+
+L'interface doit être simple et efficace, centrée sur les fonctionnalités essentielles du minuteur.
