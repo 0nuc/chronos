@@ -7,7 +7,7 @@ class TimerWindow:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("")
-        self.root.geometry("250x200")
+        self.root.geometry("250x235")
         self.root.configure(bg="black")
         self.root.resizable(False, False)
         
